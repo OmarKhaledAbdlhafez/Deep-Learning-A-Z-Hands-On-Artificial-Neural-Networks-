@@ -10,7 +10,8 @@ Inside this class we will work on Real-World datasets, to solve Real-World busin
  -   Stacked Autoencoders* to take on the challenge for the **Netflix $1 
 Million prize**
 # Artificial Neural Networks to solve a Customer Churn problem
-##**Churn Modelling Problem**
+**Churn Modelling Problem**
+**ann project folder **
 
 In this part you will be solving a data analytics challenge for a bank. You will be given a dataset with a large sample of the bank's customers. To make this dataset, the bank gathered information such as customer id, credit score, gender, age, tenure, balance, if the customer is active, has a credit card, etc. During a period of 6 months, the bank observed if these customers left or stayed in the bank.
 
